@@ -42,7 +42,7 @@ namespace Problem_2
             b4.AddStock(stock3);
             b4.AddStock(stock4);
 
-            //await Task.WhenAll(stock1.Task, stock2.Task, stock3.Task, stock4.Task);
+            await Task.WhenAll(stock1.Task, stock2.Task, stock3.Task, stock4.Task);
         }
     }
 }
