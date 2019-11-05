@@ -1,0 +1,32 @@
+/Users/thanhle/Documents/CSULB/Classes/Fall 2019/CECS 475/Lab Assignments/Lab Assignment 3/Problem_2/obj/Debug/netcoreapp2.1/Problem_2.csprojAssemblyReference.cache
+/Users/thanhle/Documents/CSULB/Classes/Fall 2019/CECS 475/Lab Assignments/Lab Assignment 3/Problem_2/obj/Debug/netcoreapp2.1/Problem_2.csproj.CoreCompileInputs.cache
+/Users/thanhle/Documents/CSULB/Classes/Fall 2019/CECS 475/Lab Assignments/Lab Assignment 3/Problem_2/obj/Debug/netcoreapp2.1/Problem_2.AssemblyInfoInputs.cache
+/Users/thanhle/Documents/CSULB/Classes/Fall 2019/CECS 475/Lab Assignments/Lab Assignment 3/Problem_2/obj/Debug/netcoreapp2.1/Problem_2.AssemblyInfo.cs
+/Users/thanhle/Documents/CSULB/Classes/Fall 2019/CECS 475/Lab Assignments/Lab Assignment 3/Problem_2/bin/Debug/netcoreapp2.1/Problem_2.deps.json
+/Users/thanhle/Documents/CSULB/Classes/Fall 2019/CECS 475/Lab Assignments/Lab Assignment 3/Problem_2/bin/Debug/netcoreapp2.1/Problem_2.runtimeconfig.json
+/Users/thanhle/Documents/CSULB/Classes/Fall 2019/CECS 475/Lab Assignments/Lab Assignment 3/Problem_2/bin/Debug/netcoreapp2.1/Problem_2.runtimeconfig.dev.json
+/Users/thanhle/Documents/CSULB/Classes/Fall 2019/CECS 475/Lab Assignments/Lab Assignment 3/Problem_2/bin/Debug/netcoreapp2.1/Problem_2.dll
+/Users/thanhle/Documents/CSULB/Classes/Fall 2019/CECS 475/Lab Assignments/Lab Assignment 3/Problem_2/bin/Debug/netcoreapp2.1/Problem_2.pdb
+/Users/thanhle/Documents/CSULB/Classes/Fall 2019/CECS 475/Lab Assignments/Lab Assignment 3/Problem_2/obj/Debug/netcoreapp2.1/Problem_2.dll
+/Users/thanhle/Documents/CSULB/Classes/Fall 2019/CECS 475/Lab Assignments/Lab Assignment 3/Problem_2/obj/Debug/netcoreapp2.1/Problem_2.pdb
+C:\Users\thanh\OneDrive\Desktop\CECS 475\Lab Assignment 3\Problem 2\bin\Debug\netcoreapp2.1\Problem_2.deps.json
+C:\Users\thanh\OneDrive\Desktop\CECS 475\Lab Assignment 3\Problem 2\bin\Debug\netcoreapp2.1\Problem_2.runtimeconfig.json
+C:\Users\thanh\OneDrive\Desktop\CECS 475\Lab Assignment 3\Problem 2\bin\Debug\netcoreapp2.1\Problem_2.runtimeconfig.dev.json
+C:\Users\thanh\OneDrive\Desktop\CECS 475\Lab Assignment 3\Problem 2\bin\Debug\netcoreapp2.1\Problem_2.dll
+C:\Users\thanh\OneDrive\Desktop\CECS 475\Lab Assignment 3\Problem 2\bin\Debug\netcoreapp2.1\Problem_2.pdb
+C:\Users\thanh\OneDrive\Desktop\CECS 475\Lab Assignment 3\Problem 2\obj\Debug\netcoreapp2.1\Problem_2.csprojAssemblyReference.cache
+C:\Users\thanh\OneDrive\Desktop\CECS 475\Lab Assignment 3\Problem 2\obj\Debug\netcoreapp2.1\Problem_2.csproj.CoreCompileInputs.cache
+C:\Users\thanh\OneDrive\Desktop\CECS 475\Lab Assignment 3\Problem 2\obj\Debug\netcoreapp2.1\Problem_2.AssemblyInfoInputs.cache
+C:\Users\thanh\OneDrive\Desktop\CECS 475\Lab Assignment 3\Problem 2\obj\Debug\netcoreapp2.1\Problem_2.AssemblyInfo.cs
+C:\Users\thanh\OneDrive\Desktop\CECS 475\Lab Assignment 3\Problem 2\obj\Debug\netcoreapp2.1\Problem_2.dll
+C:\Users\thanh\OneDrive\Desktop\CECS 475\Lab Assignment 3\Problem 2\obj\Debug\netcoreapp2.1\Problem_2.pdb
+C:\Users\thanh\OneDrive\Desktop\CECS 475\Lab Assignments\Lab Assignment 3\Problem 2\obj\Debug\netcoreapp2.1\Problem_2.AssemblyInfoInputs.cache
+C:\Users\thanh\OneDrive\Desktop\CECS 475\Lab Assignments\Lab Assignment 3\Problem 2\obj\Debug\netcoreapp2.1\Problem_2.AssemblyInfo.cs
+C:\Users\thanh\OneDrive\Desktop\CECS 475\Lab Assignments\Lab Assignment 3\Problem 2\obj\Debug\netcoreapp2.1\Problem_2.dll
+C:\Users\thanh\OneDrive\Desktop\CECS 475\Lab Assignments\Lab Assignment 3\Problem 2\obj\Debug\netcoreapp2.1\Problem_2.pdb
+C:\Users\thanh\OneDrive\Desktop\CECS 475\Lab Assignments\Lab Assignment 3\Problem 2\bin\Debug\netcoreapp2.1\Problem_2.deps.json
+C:\Users\thanh\OneDrive\Desktop\CECS 475\Lab Assignments\Lab Assignment 3\Problem 2\bin\Debug\netcoreapp2.1\Problem_2.runtimeconfig.json
+C:\Users\thanh\OneDrive\Desktop\CECS 475\Lab Assignments\Lab Assignment 3\Problem 2\bin\Debug\netcoreapp2.1\Problem_2.runtimeconfig.dev.json
+C:\Users\thanh\OneDrive\Desktop\CECS 475\Lab Assignments\Lab Assignment 3\Problem 2\bin\Debug\netcoreapp2.1\Problem_2.dll
+C:\Users\thanh\OneDrive\Desktop\CECS 475\Lab Assignments\Lab Assignment 3\Problem 2\bin\Debug\netcoreapp2.1\Problem_2.pdb
+C:\Users\thanh\OneDrive\Desktop\CECS 475\Lab Assignments\Lab Assignment 3\Problem 2\obj\Debug\netcoreapp2.1\Problem_2.csprojAssemblyReference.cache

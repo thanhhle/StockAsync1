@@ -1,0 +1,32 @@
+Broker Name         Stock Name          Initial Value       Current Value       Changes             Date    Time
+
+Broker 2            Banking             90                  102                 5                   10/26/2019 2:52:22 AM
+Broker 3            Banking             90                  102                 5                   10/26/2019 2:52:22 AM
+Broker 4            Banking             90                  102                 5                   10/26/2019 2:52:22 AM
+Broker 3            Banking             90                  102                 6                   10/26/2019 2:52:23 AM
+Broker 4            Banking             90                  102                 6                   10/26/2019 2:52:23 AM
+Broker 2            Banking             90                  101                 7                   10/26/2019 2:52:23 AM
+Broker 3            Banking             90                  101                 7                   10/26/2019 2:52:23 AM
+Broker 4            Banking             90                  101                 7                   10/26/2019 2:52:23 AM
+Broker 2            Banking             90                  103                 8                   10/26/2019 2:52:24 AM
+Broker 3            Banking             90                  103                 8                   10/26/2019 2:52:24 AM
+Broker 4            Banking             90                  103                 8                   10/26/2019 2:52:24 AM
+Broker 2            Banking             90                  104                 9                   10/26/2019 2:52:24 AM
+Broker 3            Banking             90                  104                 9                   10/26/2019 2:52:24 AM
+Broker 4            Banking             90                  104                 9                   10/26/2019 2:52:24 AM
+Broker 2            Banking             90                  104                 10                  10/26/2019 2:52:25 AM
+Broker 3            Banking             90                  104                 10                  10/26/2019 2:52:25 AM
+Broker 4            Banking             90                  104                 10                  10/26/2019 2:52:25 AM
+Broker 1            Technology          160                 175                 11                  10/26/2019 2:52:25 AM
+Broker 2            Technology          160                 175                 11                  10/26/2019 2:52:25 AM
+Broker 3            Technology          160                 175                 11                  10/26/2019 2:52:25 AM
+Broker 4            Technology          160                 175                 11                  10/26/2019 2:52:25 AM
+Broker 4            Retail              30                  24                  11                  10/26/2019 2:52:25 AM
+Broker 2            Banking             90                  106                 11                  10/26/2019 2:52:25 AM
+Broker 3            Banking             90                  106                 11                  10/26/2019 2:52:25 AM
+Broker 4            Banking             90                  106                 11                  10/26/2019 2:52:25 AM
+Broker 1            Technology          160                 176                 12                  10/26/2019 2:52:25 AM
+Broker 1            Retail              30                  24                  12                  10/26/2019 2:52:25 AM
+Broker 4            Retail              30                  24                  12                  10/26/2019 2:52:25 AM
+Broker 3            Technology          160                 176                 12                  10/26/2019 2:52:25 AM
+Broker 4            Technology          160                 176                 12                  10/26/2019 2:52:25 AM
