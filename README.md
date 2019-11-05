@@ -1,10 +1,10 @@
-# Stock-1
+# StockAsync
 An application written in C#
 Console and Textfile output are identical 
 
 
 ## Description
-- This application involves delegates, events and threads
+- This application involves delegates, events, and asynchronization
 - Create an application that models the ups and downs of a particular stock. The value of a stock is assumed to change by plus or minus a specified number of units after every time unit (such as one hour). A notification is generated each time a stock changes more than a specified number of units above or below its intial value. A collection of brokers who control the stock must receive this notification. The range within which the stock can change every time unit and the threshold above or below which collection of brokers who control the stock must be notified are specified when the stock is created (using its constructor).
 
 ## Implementation
@@ -25,7 +25,7 @@ Create the class Stock with the following attributes:
 
 Note: Implement other members in the class Stock that are needed.
 
-When a stock object is created, a thread is started. This thread causes the stock's value to be modified every 500 milliseconds. If its value changes from its initial value by more than the specified notification threshold, an event method is invoked. This invokes the stockEvent (of event-type StockNotification) and multicasts a  notification to all listeners who have registered with stockEvent.
+When a stock object is created, an async method is called. This method causes the stock's value to be modified every 500 milliseconds. If its value changes from its initial value by more than the specified notification threshold, an event method is invoked. This invokes the stockEvent (of event-type StockNotification) and multicasts a  notification to all listeners who have registered with stockEvent.
 
 Create another event to notify saving the following information to a file when the stock's threshold is reached: date and time, stock name, inital value and current value.
 
@@ -59,6 +59,8 @@ static void Main(string[] args)
     b4.AddStock(stock2);
     b4.AddStock(stock3);
     b4.AddStock(stock4);
+    
+    await Task.WhenAll(stock1.Task, stock2.Task, stock3.Task, stock4.Task);
 }
 ```
 
